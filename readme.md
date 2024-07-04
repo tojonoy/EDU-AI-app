@@ -88,10 +88,10 @@ python app.py
 
 Thank to all those who have supported us during our project development.
 
-- [Contributor 1](https://github.com/tojonoy)
-- [Contributor 1](https://github.com/thomas0035)
-- [Contributor 1](https://github.com/theresejoe)
-- [Contributor 1](https://github.com/sairasunny)
+- [Thomas John](https://github.com/tojonoy)
+- [Thomas Biju](https://github.com/thomas0035)
+- [Therese Joe](https://github.com/theresejoe)
+- [Saira Sunny](https://github.com/sairasunny)
 
 ```
 
